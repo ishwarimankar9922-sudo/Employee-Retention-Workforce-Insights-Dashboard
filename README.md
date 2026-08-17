@@ -1,8 +1,8 @@
-# HR Analytics & Employee Attrition Dashboard
+# Employee Retention & Workforce Insights Dashboard
 
 ## 📊 Project Overview
 
-The **HR Analytics & Employee Attrition Dashboard** is an interactive Power BI project designed to analyze employee demographics, workforce composition, salary, job satisfaction, performance, and employee attrition.
+The **Employee Retention & Workforce Insights Dashboard** is an interactive Power BI project designed to analyze employee demographics, workforce composition, salary, job satisfaction, performance, and employee attrition.
 
 The dashboard helps HR teams and business managers identify workforce trends and understand the key factors associated with employee attrition.
 
@@ -282,8 +282,8 @@ Business Insights
 HR-Analytics-PowerBI/
 │
 ├── README.md
-├── HR_Analytics_Employee_Dataset.xlsx
-├── HR_Analytics_Dashboard.pbix
+├── Employee Retention & Workforce Insights Dashboardt.xlsx
+├── Employee Retention & Workforce Insights Dashboard.pbix
 │
 └── images/
     └── hr_dashboard.png
